@@ -1,5 +1,6 @@
 # Dependencies
 backend/node_modules
+node_modules
 
 # Logs
 logs
